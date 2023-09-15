@@ -1,0 +1,8 @@
+[package]
+name = "tantivy_basics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+tantivy = "0.21.0"
+tempfile = "3.8.0"
